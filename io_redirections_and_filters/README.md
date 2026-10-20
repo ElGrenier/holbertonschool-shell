@@ -1,0 +1,1 @@
+# This file contains all exercices for io redirection
