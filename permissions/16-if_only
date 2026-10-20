@@ -1,0 +1,2 @@
+#!/bin/bash
+find -u guillaume hello -exec chown vincent {} +
